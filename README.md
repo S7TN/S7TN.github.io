@@ -1,1 +1,1 @@
-[HXN2.github.io](https://HXN2.github.io)
+[S7TN.github.io](https://S7TN.github.io)
