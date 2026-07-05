@@ -1,0 +1,5 @@
+# .eslintignore
+assests/js/jquery-3.6.0.min.js
+node_modules/
+dist/
+*.min.js
